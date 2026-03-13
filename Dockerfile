@@ -1,1 +1,1 @@
-FROM zhayujie/chatgpt-on-wechat:latest
+FROM zhayujie/chatgpt-on-wechat:alpine
